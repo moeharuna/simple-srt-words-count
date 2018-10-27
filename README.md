@@ -22,6 +22,7 @@ g++ histogram.cpp -o example
 ./example example.srt
 ```
 You will see histogram like this:
+
 ![histogram screenshot](https://github.com/moeharuna/simple-srt-words-count/raw/master/screenshot.jpg)
 
 
