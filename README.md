@@ -4,7 +4,7 @@
 This is single header C++ libary just count words in .srt subtitles and push them into map. It's using [this](https://github.com/saurabhshri/simple-yet-powerful-srt-subtitle-parser-cpp) libray for parsing.
 
 
-## Instaling:
+## Installing:
 Open your terminal(Usally ctrl+alt+t hotkey) and write
 ```shell
 cd ~
