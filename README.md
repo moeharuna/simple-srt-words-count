@@ -35,5 +35,5 @@ std::map<std::string, int> words= SWC::init_map(f_name); //this function read su
 words = SWC::process_map(words, 1, 1, 1); //use this function if you want remove garbage
 ```
 f_name here means name of file to parse.
-You also need [this](https://github.com/saurabhshri/simple-yet-powerful-srt-subtitle-parser-cpp) libray to make it work.
+You also need srtparser.h in one directory with simple-words-count to make it work.
 
