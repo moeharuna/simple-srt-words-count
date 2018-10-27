@@ -6,7 +6,7 @@
 
 
 #pragma once
-#include "srtparser.h"
+#include "./srtparser.h"
 #include <string.h>
 #include <map>
 #include <vector>
