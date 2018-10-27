@@ -1,7 +1,7 @@
 # Simple Word Count
 
 ## Description
-This is single header C++ libary just count words in .srt subtitles and push them into map. It's using [this](https://github.com/saurabhshri/simple-yet-powerful-srt-subtitle-parser-cpp) libray for parsing.
+This is C++ libary just count words in .srt subtitles and push them into map. It's using [this](https://github.com/saurabhshri/simple-yet-powerful-srt-subtitle-parser-cpp) libray for parsing.
 
 
 ## Installing:
