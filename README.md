@@ -12,7 +12,6 @@ git clone git@github.com:moeharuna/simple-srt-words-count.git
 cd simple-srt-words-count
 ```
 Here is, you installed simple-srt-words-count.
-If you don't know what to do next goto Example section.
 
 ## Example:
 After installation you can try program that use simple-word-count. For this purpose write in your terminal:
