@@ -2,6 +2,10 @@
 #include <iostream>
 #include <ios>
 #include <iomanip>
+#include <map>
+#include <string>
+#include <cmath>
+
 
 
 void print_histogram(std::map<std::string, int>& words_count)

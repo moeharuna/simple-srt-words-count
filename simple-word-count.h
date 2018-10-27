@@ -11,7 +11,6 @@
 #include <map>
 #include <vector>
 #include <cctype>
-#include <cmath>
 
 namespace SWC
 {
