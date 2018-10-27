@@ -17,7 +17,7 @@ If you don't know what to do next goto Example section.
 ## Example:
 After installation you can try program that use simple-word-count for this purpose write in your terminal:
 ```shell
-cd ~/simple-words-count/example
+cd ~/simple-srt-words-count/example
 g++ histogram.cpp -o example
 ./example example.srt
 ```
